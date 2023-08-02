@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "d:/Gandeev/MINOR PROJECT/EDITH/face recognizer/EDITH_OR_FRIDAY.py", line 11, in <module>
+    import pywhatkit as py
+  File "D:\Gandeev\MINOR PROJECT\lib\site-packages\pywhatkit\__init__.py", line 8, in <module>  
+    from pywhatkit.main import print_sleep_time, check_window, sendwhatmsg, sendwhatmsg_to_group, info, playonyt, search, close_tab, sendwhatmsg_instantly, sendwhats_image
+  File "D:\Gandeev\MINOR PROJECT\lib\site-packages\pywhatkit\main.py", line 319, in <module>
+    "INTERNET IS SLOW, extraction of information might take longer time")
+Warning: INTERNET IS SLOW, extraction of information might take longer time
+PS D:\Gandeev\MINOR PROJECT\EDITH\face recognizer> 
